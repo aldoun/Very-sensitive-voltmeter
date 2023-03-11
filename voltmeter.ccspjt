@@ -1,0 +1,19 @@
+[PROJECT]
+Target=voltmeter.hex
+Processor_Text=PIC16F88
+CCSVersion=5.015
+Compiler=PCM
+[Target Data]
+FileList=voltmeter.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[voltmeter.c]
+Type=4
+[mru-list]
+1=voltmeter.c
+[Opened Files]
+1=voltmeter.c
+2=
+[Units]
+Count=1
+1=voltmeter (main)
